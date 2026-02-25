@@ -38,9 +38,9 @@ export default async function OpenGraphImage(props: {
         height: '100%',
         display: 'flex',
         flexDirection: 'column',
-        justifyContent: 'center',
+        justifyContent: 'flex-start',
         padding: '60px 80px 80px',
-        background: '#fcfcfc',
+        background: '#f5f7fa',
         fontFamily: 'Inter',
       }}
     >
